@@ -1,0 +1,27 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img {
+    max-width: 500px;
+}
+
+img.hcrest {
+    max-width: 250px;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+button {
+    display: block;
+    min-width: 300px;
+    margin: 20px auto;
+}
